@@ -1,0 +1,182 @@
+@charset "utf-8";
+
+
+body {
+    background-image: url(images/FONDO BLANCO 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.form-register {
+	padding: 30px;
+	border-radius: 4px;
+	padding-top: 7px;
+	padding-left: 45px;
+	padding-right: 45px;
+	background-color: #E1CEAD;
+	padding-bottom: 37px;
+	margin-left: -3px;
+	margin-right: -61px;
+
+}
+
+.form-register h4 {
+	text-align: center;
+	color: #333333;
+	font-family: "Playfair Display";
+	font-weight: 900;
+}
+.form-register label {
+	color: hsla(0,0%,20%,1.00);
+	font-family: Poppins;
+	width: 35%;
+}
+{
+	font-family: Poppins;
+	color: white; 
+	background-color: #BD4B4C;
+	padding-top: 20px;
+	padding-left: 101px;
+	padding-right: 20px;
+	padding-bottom: 58px;
+}
+.col-md-offset-4.col-md-4 {
+	background-color: #AA1A1C;
+}
+.col-md-offset-3.col-md-5 .form-register #fmensaje {
+	width: 100%;
+	text-align: left;
+	background-color: #333333;
+	color: hsla(0,100%,99%,1.00);
+}
+.col-md-offset-3.col-md-5 .form-register #fmail {
+	width: 100%;
+	background-color: #333333;
+	color: hsla(0,0%,100%,1.00);
+}
+.col-md-offset-3.col-md-5 .form-register #fname {
+	width: 100%;
+	background-color: #333333;
+	color: hsla(0,0%,100%,1.00);
+}
+.col-md-5.col-md-offset-3 .form-register #fmail {
+	color: hsla(0,0%,97%,1.00);
+}
+
+.lead {
+	text-align: center;
+}
+.jumbotron .fonts-popys {
+	text-align: center;
+
+}
+
+.fonts-popys {
+	font-family: Poppins;
+	color: #000000;
+	background-color: #FFFFFF;
+	text-align: center;
+	width: 68%;
+	margin-left: 174px;
+}
+
+.fonts-play {
+	font-family: "Playfair Display";
+}
+.container .col-md-12 p {
+	color: hsla(0,0%,0%,1.00);
+	font-family: Poppins;
+	width: 95%;
+	padding-left: 42px;
+	font-style: normal;
+	font-size: x-large;
+	text-align: center;
+}
+
+.item .carousel-caption h3 {
+	font-family: "Playfair Display";
+	text-align: center;
+	color: #E1CEAD;
+	font-style: normal;
+	opacity: 1;
+	width: 38%;
+	margin-left: 183px;
+	padding-top: 2px;
+	padding-bottom: 0px;
+}
+.right.carousel-control {
+	background-color: #333333;
+	color: #E1CEAD;
+}
+.left.carousel-control {
+	background-color: #333333;
+	color: #E1CEAD;
+}
+
+
+
+
+
+
+.container-fluid .fonts-play {
+	text-align: center;
+	font-size: larger;
+	background-color: hsla(0,0%,100%,1.00);
+	color: hsla(0,0%,0%,1.00);
+}
+
+body footer {
+	margin-top: 366px;
+
+}
+.container .col-md-offset-2.col-md-7 {
+	background-color: hsla(38,45%,78%,1.00);
+	width: 71%;
+	padding-bottom: 22px;
+	padding-top: 2px;
+}
+
+.container-fluid {
+	color: hsla(0,0%,100%,1.00);
+}
+.form-register input {
+	background-color: hsla(0,0%,20%,1.00);
+	color: hsla(0,0%,100%,1.00);
+	padding-top: 4px;
+	text-align: left;
+	width: 45%;
+	margin-top: 2px;
+	padding-right: 0px;
+	padding-left: 10px;
+}
+.col-md-3 p {
+	color: hsla(0,0%,0%,1.00);
+	font-family: Poppins;
+	text-align: center;
+}
+.row h1 {
+	text-align: center;
+	background-color: trasnparent;
+	color: hsla(0,0%,0%,1.00);
+}
+.container .col-md-offset-2.col-md-7 h2 {
+	text-align: center;
+	padding-bottom: 2px;
+	margin-top: 8px;
+}
+.col-md-offset-2.col-md-7 form #nombre {
+	color: hsla(0,0%,94%,1.00);
+}
+.col-md-offset-2.col-md-7 form #email {
+	color: hsla(0,0%,100%,1.00);
+}
+.col-md-offset-2.col-md-7 form textarea {
+	color: hsla(0,0%,100%,1.00);
+}

@@ -1,0 +1,7 @@
+@charset "utf-8";
+.transparent-container {
+  background-color: rgba(255, 255, 255, 0); /* Transparente al 100% (sin color de fondo) */
+}
+.col-md-12 {
+	background-color: #E1CEAD;
+}

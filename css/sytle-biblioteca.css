@@ -1,0 +1,22 @@
+@charset "utf-8";
+.container-fluid.transparent-container h1 {
+	color: hsla(0,0%,0%,1.00);
+	font-family: "Playfair Display";
+	text-align: center;
+	margin-bottom: 8px;
+}
+.container .container .col-md-4.col-md-offset-4 {
+	width: 49%;
+	text-align: center;
+	margin-top: 37px;
+	margin-bottom: 50px;
+	margin-right: 10px;
+	padding-top: 54px;
+	background-color: hsla(0,0%,25%,1.00);
+	margin-left: 214px;
+}
+.col-md-4.col-md-offset-4 div p {
+	font-family: Poppins;
+	text-align: center;
+	font-size: xx-large;
+}

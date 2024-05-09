@@ -1,0 +1,36 @@
+@charset "utf-8";
+.container .col-md-4 p {
+	color: hsla(0,0%,0%,1.00);
+}
+.container .col-md-4 {
+	width: 37%;
+	text-align: center;
+	font-family: Poppins;
+	font-size: large;
+}
+.container .col-md-7 .col-md-offset-0.col-md-12 {
+	background-color: hsla(38,45%,78%,1.00);
+}
+.col-md-offset-0.col-md-12 form #date {
+	margin-bottom: 10px;
+	padding-right: 52px;
+	text-align: left;
+	margin-top: 7px;
+	padding-top: 2px;
+	padding-bottom: 7px;
+	padding-left: 13px;
+
+
+}
+.col-md-offset-0.col-md-12 form .text {
+	margin-bottom: 15px;
+	padding-right: 21px;
+	padding-bottom: 25px;
+	padding-left: 9px;
+	padding-top: 5px;
+}
+.container .col-md-7 p {
+	color: hsla(0,0%,0%,1.00);
+	font-family: Poppins;
+	font-size: x-large;
+}

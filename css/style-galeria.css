@@ -1,0 +1,8 @@
+@charset "utf-8";
+.item.active .carousel-caption h3 {
+	font-family: Poppins;
+	text-align: left;
+	width: 83%;
+	margin-right: 29px;
+	margin-left: -2px;
+}
